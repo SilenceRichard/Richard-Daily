@@ -34,3 +34,9 @@
 算法包括用一句话描述的算法思路，LeetCode中的题目出现频率以及刷题列表（包含思路和实现）。
 
 - [leetcode刷题记录](algorithm/leetcode.md)
+
+## gpt
+
+迈向ai时代！
+
+- [优质的ai命令](gpt/prompts.md)
