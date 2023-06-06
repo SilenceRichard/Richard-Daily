@@ -24,4 +24,4 @@ chatgpt:
 > https://leetcode.cn/studyplan/top-interview-150/
 
  - [88.合并两个有序数组](records/88.md)：在原数组上处理，逆向遍历更好
- - [27. 移除元素](records/27.md)
+ - [27. 移除元素](records/27.md) 逆向遍历+多指针
