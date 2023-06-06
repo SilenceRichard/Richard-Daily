@@ -6,6 +6,11 @@
 
 ## JavaScript
 #### 1）URL
+
+- [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)
+- [正则表达式必知必会](https://book.douban.com/subject/26285406/)
+- [JavaScript正则表达式指南](https://juejin.cn/post/6844903476664397326)
+
 1. [URLJoin](https://www.30secondsofcode.org/js/s/url-join)（将所有给定的URL段连接在一起，然后规范化结果URL）
 2. [slugify](https://www.30secondsofcode.org/js/s/slugify)（将字符串转换为URL友好的段）
 3. [queryStringToObject](https://www.30secondsofcode.org/js/s/query-string-to-object)（从给定的查询字符串或URL生成对象）
