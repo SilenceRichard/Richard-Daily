@@ -2,4 +2,4 @@
 
 1. [let,const,var的区别](https://github.com/SilenceRichard/Richard-Daily/issues/1)
 2. [【...】扩展运算符和剩余参数的应用场景](https://github.com/SilenceRichard/Richard-Daily/issues/2)
-3. [解构以及注意事项]
+3. [解构以及注意事项](https://github.com/SilenceRichard/Richard-Daily/issues/5)
