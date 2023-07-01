@@ -33,3 +33,4 @@ chatgpt:
     ```js
     const mid = Math.floor((high - low) / 2) + low;
     ```
+3. [动态规划、贪心问题](https://github.com/SilenceRichard/Richard-Daily/issues/7)
